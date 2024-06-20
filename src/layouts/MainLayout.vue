@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Food Vendor Bendor
+          Food Vendor Iendor
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
