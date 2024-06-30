@@ -64,9 +64,9 @@ const linksList = [
   },
   {
     title: "Settings",
-    caption: "",
+    caption: "SettingsPage",
     icon: "settings",
-    link: "",
+    link: "http://localhost:9000/#/settings",
   },
   {
     title: "GitHib",
